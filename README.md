@@ -11,7 +11,6 @@ void flag()
 {
   puts("flag is HANDAI_CTF");
   fflush(stdout);
-//  sleep(1);
 }
 
 void saru()
